@@ -5,3 +5,12 @@ body {
 h1 {
     color: red;
 }
+
+/* property: value; */
+#home-intro{
+    text-align: center;
+    border: 3px;
+    border-colour: black;
+    border-style: solid;
+    border: 3px solid black;
+}
